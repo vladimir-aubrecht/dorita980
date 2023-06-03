@@ -40,3 +40,4 @@ devtest.js
 
 .DS_Store
 
+package-lock.json
